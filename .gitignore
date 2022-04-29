@@ -1,0 +1,21 @@
+# Project exclude paths
+/.gradle/
+/File Server/task/build/
+/File Server/task/out/
+/File Server/task/out/production/classes/
+/Topics/Executors/Check whether a number is prime/out/
+/Topics/Executors/Check whether a number is prime/out/production/classes/
+/Topics/Executors/Messaging/out/
+/Topics/Executors/Messaging/out/production/classes/
+/Topics/Output streams/Convert to char array/out/
+/Topics/Output streams/Convert to char array/out/production/classes/
+/Topics/Processing strings/Double characters/out/
+/Topics/Processing strings/Double characters/out/production/classes/
+/Topics/Processing strings/Generating passwords/out/
+/Topics/Processing strings/Generating passwords/out/production/classes/
+/Topics/Processing strings/Number of occurrences/out/
+/Topics/Processing strings/Number of occurrences/out/production/classes/
+/Topics/Processing strings/The lucky ticket/out/
+/Topics/Processing strings/The lucky ticket/out/production/classes/
+/Topics/Throwing exceptions/The root of a number/out/
+/Topics/Throwing exceptions/The root of a number/out/production/classes/
